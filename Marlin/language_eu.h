@@ -60,7 +60,7 @@
 #define MSG_PREHEAT_1_END                   MSG_PREHEAT_1 _UxGT(" Amaia")
 #define MSG_PREHEAT_1_BEDONLY               MSG_PREHEAT_1 _UxGT(" Ohea")
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 _UxGT(" konf.")
-#define MSG_PREHEAT_2                       _UxGT("Berotu ABS")
+#define MSG_PREHEAT_2                       _UxGT("Berotu PETG")
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_1 _UxGT(" ")
 #define MSG_PREHEAT_2_ALL                   MSG_PREHEAT_1 _UxGT(" Guztia")
 #define MSG_PREHEAT_2_END                   MSG_PREHEAT_2 _UxGT(" Amaia")
