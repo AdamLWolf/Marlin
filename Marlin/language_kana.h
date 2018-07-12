@@ -61,10 +61,10 @@
 #define MSG_PREHEAT_1_ALL                   "PLA \xbd\xcd\xde\xc3\xd6\xc8\xc2"                                 // "PLA ｽﾍﾞﾃﾖﾈﾂ" (" All")
 #define MSG_PREHEAT_1_BEDONLY               "PLA \xcd\xde\xaf\xc4\xde\xd6\xc8\xc2"                             // "PLA ﾍﾞｯﾄﾞﾖﾈﾂ" (" Bed")
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 "\xbe\xaf\xc3\xb2"                                   // "ｾｯﾃｲ" (" conf")
-#define MSG_PREHEAT_2                       "ABS \xd6\xc8\xc2"                                                 // "ABS ﾖﾈﾂ" ("Preheat ABS")
+#define MSG_PREHEAT_2                       "PETG \xd6\xc8\xc2"                                                 // "PETG ﾖﾈﾂ" ("Preheat PETG")
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_2 " "
-#define MSG_PREHEAT_2_ALL                   "ABS \xbd\xcd\xde\xc3\xd6\xc8\xc2"                                 // "ABS ｽﾍﾞﾃﾖﾈﾂ" (" All")
-#define MSG_PREHEAT_2_BEDONLY               "ABS \xcd\xde\xaf\xc4\xde\xd6\xc8\xc2"                             // "ABS ﾍﾞｯﾄﾞﾖﾈﾂ" (" Bed")
+#define MSG_PREHEAT_2_ALL                   "PETG \xbd\xcd\xde\xc3\xd6\xc8\xc2"                                 // "PETG ｽﾍﾞﾃﾖﾈﾂ" (" All")
+#define MSG_PREHEAT_2_BEDONLY               "PETG \xcd\xde\xaf\xc4\xde\xd6\xc8\xc2"                             // "PETG ﾍﾞｯﾄﾞﾖﾈﾂ" (" Bed")
 #define MSG_PREHEAT_2_SETTINGS              MSG_PREHEAT_2 "\xbe\xaf\xc3\xb2"                                   // "ｾｯﾃｲ" (" conf")
 #define MSG_COOLDOWN                        "\xb6\xc8\xc2\xc3\xb2\xbc"                                         // "ｶﾈﾂﾃｲｼ" ("Cooldown")
 #define MSG_SWITCH_PS_ON                    "\xc3\xde\xdd\xb9\xde\xdd\x20\xb5\xdd"                             // "ﾃﾞﾝｹﾞﾝ ｵﾝ" ("Switch power on")
