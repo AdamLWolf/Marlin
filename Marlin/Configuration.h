@@ -91,7 +91,7 @@
 // boot image unmodified. For an example have a look at the bq Hephestos 2
 // example configuration folder.
 //
-//#define SHOW_CUSTOM_BOOTSCREEN
+#define SHOW_CUSTOM_BOOTSCREEN /* Uses a nice Anet A8 logo... */
 // @section machine
 
 /**
@@ -538,6 +538,7 @@
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
 #define DEFAULT_AXIS_STEPS_PER_UNIT   { 100, 100, 400, 85 }
+/* Extruder steps @ 85 when using stock stepper motor, and Winsinn Mk8 Bowden conversion kit. ALW */
 
 /**
  * Default Max Feed Rate (mm/s)
@@ -1160,6 +1161,7 @@
 #define PREHEAT_2_TEMP_HOTEND 230
 #define PREHEAT_2_TEMP_BED     65
 #define PREHEAT_2_FAN_SPEED   125 // Value from 0 to 255
+/* I use preset two for PETG, I like how it behaves much better than ABS, I've updated the language files to reflect this. ALW */
 
 /**
  * Nozzle Park
@@ -1530,6 +1532,7 @@
 //
 // ANET and Tronxy Controller supported displays.
 //
+// My personal printer uses the full graphics display YMMV, but it's a cheap easy upgrade that pays off in usability. */
 //#define ZONESTAR_LCD              // Requires ADC_KEYPAD_PIN to be assigned to an analog pin.
                                   // This LCD is known to be susceptible to electrical interference
                                   // which scrambles the display.  Pressing any button clears it up.
@@ -1538,7 +1541,6 @@
 #define ANET_FULL_GRAPHICS_LCD  // Anet 128x64 full graphics lcd with rotary encoder as used on Anet A6
                                   // A clone of the RepRapDiscount full graphics display but with
                                   // different pins/wiring (see pins_ANET_10.h).
-
 //
 // LCD for Melzi Card with Graphical LCD
 //
