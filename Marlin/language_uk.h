@@ -56,7 +56,7 @@
 #define MSG_PREHEAT_1_ALL                   MSG_PREHEAT_1 _UxGT(" Все")
 #define MSG_PREHEAT_1_BEDONLY               MSG_PREHEAT_1 _UxGT(" Стіл")
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 _UxGT(" нал.")
-#define MSG_PREHEAT_2                       _UxGT("Нагрів ABS")
+#define MSG_PREHEAT_2                       _UxGT("Нагрів PETG")
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_2 _UxGT(" ")
 #define MSG_PREHEAT_2_ALL                   MSG_PREHEAT_2 _UxGT(" Все")
 #define MSG_PREHEAT_2_BEDONLY               MSG_PREHEAT_2 _UxGT(" Стіл")
