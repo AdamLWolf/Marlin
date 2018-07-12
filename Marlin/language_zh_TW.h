@@ -53,7 +53,7 @@
 #define MSG_PREHEAT_1_ALL                   MSG_PREHEAT_1 _UxGT(" 全部")  //MSG_PREHEAT_1 " All"
 #define MSG_PREHEAT_1_BEDONLY               MSG_PREHEAT_1 _UxGT(" 熱床")  //MSG_PREHEAT_1 " Bed"
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 _UxGT(" 設置")  //MSG_PREHEAT_1 " conf"
-#define MSG_PREHEAT_2                       _UxGT("預熱ABS")  //"Preheat ABS"
+#define MSG_PREHEAT_2                       _UxGT("預熱PETG")  //"Preheat PETG"
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_2 _UxGT(" ")  //MSG_PREHEAT_2 " "
 #define MSG_PREHEAT_2_ALL                   MSG_PREHEAT_2 _UxGT(" 全部")  //MSG_PREHEAT_2 " All"
 #define MSG_PREHEAT_2_BEDONLY               MSG_PREHEAT_2 _UxGT(" 熱床")  //MSG_PREHEAT_2 " Bed"
