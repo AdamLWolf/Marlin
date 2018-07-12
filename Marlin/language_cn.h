@@ -50,7 +50,7 @@
 #define MSG_PREHEAT_1_ALL                   MSG_PREHEAT_1 " \xc5\xc6"
 #define MSG_PREHEAT_1_BEDONLY               MSG_PREHEAT_1 " \xc4\xc7"
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 " \xbe\xbf"
-#define MSG_PREHEAT_2                       "\xc3\xc4 ABS"
+#define MSG_PREHEAT_2                       "\xc3\xc4 PETG"
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_2 " "
 #define MSG_PREHEAT_2_ALL                   MSG_PREHEAT_2 " \xc5\xc6"
 #define MSG_PREHEAT_2_BEDONLY               MSG_PREHEAT_2 " \xbe\xc6"
