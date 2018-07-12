@@ -57,11 +57,11 @@
 #define MSG_PREHEAT_1_ALL                   _UxGT("Preque. PLA Todo")
 #define MSG_PREHEAT_1_BEDONLY               _UxGT("Preque. PLA Cama")
 #define MSG_PREHEAT_1_SETTINGS              _UxGT("Preque. PLA conf")
-#define MSG_PREHEAT_2                       _UxGT("Prequentar ABS")
-#define MSG_PREHEAT_2_N                     _UxGT("Prequentar ABS ")
-#define MSG_PREHEAT_2_ALL                   _UxGT("Preque. ABS Todo")
-#define MSG_PREHEAT_2_BEDONLY               _UxGT("Preque. ABS Cama")
-#define MSG_PREHEAT_2_SETTINGS              _UxGT("Preque. ABS conf")
+#define MSG_PREHEAT_2                       _UxGT("Prequentar PETG")
+#define MSG_PREHEAT_2_N                     _UxGT("Prequentar PETG ")
+#define MSG_PREHEAT_2_ALL                   _UxGT("Preque. PETG Todo")
+#define MSG_PREHEAT_2_BEDONLY               _UxGT("Preque. PETG Cama")
+#define MSG_PREHEAT_2_SETTINGS              _UxGT("Preque. PETG conf")
 #define MSG_COOLDOWN                        _UxGT("Arrefriar")
 #define MSG_SWITCH_PS_ON                    _UxGT("Acender")
 #define MSG_SWITCH_PS_OFF                   _UxGT("Apagar")
@@ -250,4 +250,3 @@
 #endif // LCD_HEIGHT < 4
 
 #endif // LANGUAGE_GL_H
-
