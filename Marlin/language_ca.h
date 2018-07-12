@@ -58,7 +58,7 @@
 #define MSG_PREHEAT_1_ALL                   MSG_PREHEAT_1 _UxGT(" Tot")
 #define MSG_PREHEAT_1_BEDONLY               MSG_PREHEAT_1 _UxGT(" Llit")
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 _UxGT(" Conf.")
-#define MSG_PREHEAT_2                       _UxGT("Preescalfa ABS")
+#define MSG_PREHEAT_2                       _UxGT("Preescalfa PETG")
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_2 _UxGT(" ")
 #define MSG_PREHEAT_2_ALL                   MSG_PREHEAT_2 _UxGT(" Tot")
 #define MSG_PREHEAT_2_BEDONLY               MSG_PREHEAT_2 _UxGT(" Llit")
