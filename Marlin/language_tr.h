@@ -64,7 +64,7 @@
 #define MSG_PREHEAT_1_END                   MSG_PREHEAT_1 _UxGT(" Nozül")                               //  Nozül
 #define MSG_PREHEAT_1_BEDONLY               MSG_PREHEAT_1 _UxGT(" Tabla")                               //  Tabla
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 _UxGT(" Ayar")                                //  Ayar
-#define MSG_PREHEAT_2                       _UxGT("Ön Isınma ABS")                                      // Ön Isınma ABS
+#define MSG_PREHEAT_2                       _UxGT("Ön Isınma PETG")                                      // Ön Isınma PETG
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_2 _UxGT(" ")                                    //
 #define MSG_PREHEAT_2_ALL                   MSG_PREHEAT_2 _UxGT(" Tüm")                                 //  Tüm
 #define MSG_PREHEAT_2_END                   MSG_PREHEAT_2 _UxGT(" Nozül")                               //  Nozül
