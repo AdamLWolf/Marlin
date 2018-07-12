@@ -64,10 +64,10 @@
 #define MSG_PREHEAT_1_ALL                   _UxGT("PLA スベテヨネツ")              // " All"
 #define MSG_PREHEAT_1_BEDONLY               _UxGT("PLA ベッドヨネツ")              // " Bed"
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 _UxGT("セッテイ")       // " conf"
-#define MSG_PREHEAT_2                       _UxGT("ABS ヨネツ")                  // "Preheat ABS"
+#define MSG_PREHEAT_2                       _UxGT("PETG ヨネツ")                  // "Preheat PETG"
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_2 _UxGT(" ")
-#define MSG_PREHEAT_2_ALL                   _UxGT("ABS スベテヨネツ")              // " All"
-#define MSG_PREHEAT_2_BEDONLY               _UxGT("ABS ベッドヨネツ")              // " Bed"
+#define MSG_PREHEAT_2_ALL                   _UxGT("PETG スベテヨネツ")              // " All"
+#define MSG_PREHEAT_2_BEDONLY               _UxGT("PETG ベッドヨネツ")              // " Bed"
 #define MSG_PREHEAT_2_SETTINGS              MSG_PREHEAT_2 _UxGT("セッテイ")       // " conf"
 #define MSG_COOLDOWN                        _UxGT("カネツテイシ")                  // "Cooldown"
 #define MSG_SWITCH_PS_ON                    _UxGT("デンゲン オン")                 // "Switch power on"
