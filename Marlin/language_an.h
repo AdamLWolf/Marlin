@@ -1,3 +1,4 @@
+[code]
 /**
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
@@ -56,7 +57,7 @@
 #define MSG_PREHEAT_1_ALL                   MSG_PREHEAT_1 _UxGT(" Tot")
 #define MSG_PREHEAT_1_BEDONLY               MSG_PREHEAT_1 _UxGT(" Base")
 #define MSG_PREHEAT_1_SETTINGS              MSG_PREHEAT_1 _UxGT(" Conf")
-#define MSG_PREHEAT_2                       _UxGT("Precalentar ABS")
+#define MSG_PREHEAT_2                       _UxGT("Precalentar PETG")
 #define MSG_PREHEAT_2_N                     MSG_PREHEAT_2 _UxGT(" ")
 #define MSG_PREHEAT_2_ALL                   MSG_PREHEAT_2 _UxGT(" Tot")
 #define MSG_PREHEAT_2_BEDONLY               MSG_PREHEAT_2 _UxGT(" Base")
@@ -252,3 +253,4 @@
 #define MSG_FILAMENT_CHANGE_RESUME_2        _UxGT("pa continar")
 
 #endif // LANGUAGE_AN_H
+[/code]
